@@ -2,6 +2,6 @@
 test clone
 
 
-Create a new branch: dev : & simple 
+Create b new branch: dev : & simple 
 
 
